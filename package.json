@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frostney/react-native-create-library.git"
+    "url": "git+https://github.com/kumarpatel/react-native-create-library.git"
   },
   "keywords": [
     "react-native",
